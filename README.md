@@ -56,7 +56,9 @@ If any errors you should fix it yourself!!</pre>
 
 ## Credits: <br>
  • <a href="https://github.com/arupmandal">Arup MaNDAL</a> <br>
- • <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> 
+ • <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>  <br>
+ 
+ • <a href="https://github.com/Arup-Bots">ArupBots</a>
   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/arupmandal/feedback-bot)   
 
